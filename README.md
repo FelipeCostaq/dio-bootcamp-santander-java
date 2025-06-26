@@ -24,10 +24,10 @@
 
 <h2>Exercícios: </h2>
 
-<h3>1. Escreva um código que receba o nome e o ano de nascimento de alguém e imprima na tela a seguinte mensagem: "Olá 'Fulano' você tem 'X' anos"</h3>
+<p>1. Escreva um código que receba o nome e o ano de nascimento de alguém e imprima na tela a seguinte mensagem: "Olá 'Fulano' você tem 'X' anos"</p>
 
-<h3>2. Escreva um código que receba o tamanho do lado de um quadrado, calcule sua área e exiba na tela. Fórmula: área=lado X lado</h3>
+<p>2. Escreva um código que receba o tamanho do lado de um quadrado, calcule sua área e exiba na tela. Fórmula: área=lado X lado</p>
 
-<h3>3. Escreva um código que receba a base e a alturade um retângulo, calcule sua área e exiba na tela. Fórmula: área=base X altura</h3>
+<p>3. Escreva um código que receba a base e a alturade um retângulo, calcule sua área e exiba na tela. Fórmula: área=base X altura</p>
 
-<h3>4. Escreva um código que receba o nome e a idade de 2 pessoas e imprima a diferença de idade entre elas</h3>
+<p>4. Escreva um código que receba o nome e a idade de 2 pessoas e imprima a diferença de idade entre elas</p>
