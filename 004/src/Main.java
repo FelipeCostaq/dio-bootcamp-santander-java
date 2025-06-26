@@ -15,6 +15,6 @@ public class Main {
         System.out.printf("O resto da divisão do valor %s e do valor %s é %s\n", _value1, _value2, _value1 % _value2);
 
         // Concatenate
-        System.out.println("Tente com" + "valores diferentes!");
+        System.out.println("Tente com " + "valores diferentes!");
     }
 }
