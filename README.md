@@ -31,3 +31,19 @@
 <p>3. Escreva um código que receba a base e a alturade um retângulo, calcule sua área e exiba na tela. Fórmula: área=base X altura</p>
 
 <p>4. Escreva um código que receba o nome e a idade de 2 pessoas e imprima a diferença de idade entre elas</p>
+
+#Módulo 2
+
+##Estruturas de controle Java
+
+<h2>Aula 1:</h2>
+
+<p>Estrutura Condicional If else e else if</p>
+
+<h2>Aula 2:</h2>
+
+<p>Estrutura Condicional Switch Case</p>
+
+<h2>Aula 3:</h2>
+
+<p>Estrutura de repetição for</p>
