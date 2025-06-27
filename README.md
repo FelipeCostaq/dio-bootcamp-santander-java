@@ -32,9 +32,9 @@
 
 <p>4. Escreva um código que receba o nome e a idade de 2 pessoas e imprima a diferença de idade entre elas</p>
 
-#Módulo 2
+# Módulo 2
 
-##Estruturas de controle Java
+## Estruturas de controle Java
 
 <h2>Aula 1:</h2>
 
