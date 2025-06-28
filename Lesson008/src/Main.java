@@ -13,11 +13,11 @@ public class Main {
             tempNumber = sc.nextInt();
 
             if(tempNumber > initialNumber){
-                if(tempNumber % initialNumber != 0 ){
-                    System.out.printf("\n O valor %s divido por %s, tem resto diferente de zero continuando execução...", tempNumber, initialNumber);
+                if(tempNumber % initialNumber == 0 ){
+                    System.out.printf("\n O valor %s divido por %s, tem resto igual a zero continuando execução...", tempNumber, initialNumber);
                 }
                 else{
-                    System.out.printf("\n O valor %s divido por %s, tem resto igual a zero encerrando execução...", tempNumber, initialNumber);
+                    System.out.printf("\n O valor %s divido por %s, tem resto diferente de zero encerrando execução...", tempNumber, initialNumber);
                     break;
                 }
             }
