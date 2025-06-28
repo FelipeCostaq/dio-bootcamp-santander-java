@@ -47,3 +47,16 @@
 <h2>Aula 3:</h2>
 
 <p>Estrutura de repetição for</p>
+
+<h2>Aula 4:</h2>
+<p>Estrutura de repetição while e do while</p>
+
+<h2>Exercícios:</h2>
+
+<p>1. Escreva um código onde o usuário entra com um número e seja gerada a tabuada de 1 até 10 desse número</p>
+
+<p>2. Escreva um código onde o usuário entra com sua altura e peso, seja feito o calculo do seu IMC(IMC = peso/(altura * altura)) e seja exibida a mensagem de acordo com o resultado</p>
+
+<p>3. Escreva um código que o usuário entre com um primeiro número, um segundo número maior que o primeiro e escolhe entre a opção par e impar, com isso o código deve informar todos os números pares ou ímpares (de acordo com a seleção inicial) no intervalo de números informados, incluindo os números informados e em ordem decrescente;</p>
+
+<p>4. Escreva um código onde o usuário informa um número inicial, posteriormente irá informar outros N números, a execução do código irá continuar até que o número informado dividido pelo primeiro número tenha resto diferente de 0 na divisão, números menores que o primeiro número devem ser ignorados</p>
