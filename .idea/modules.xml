@@ -10,11 +10,13 @@
       <module fileurl="file://$PROJECT_DIR$/006/006.iml" filepath="$PROJECT_DIR$/006/006.iml" />
       <module fileurl="file://$PROJECT_DIR$/007/007.iml" filepath="$PROJECT_DIR$/007/007.iml" />
       <module fileurl="file://$PROJECT_DIR$/008/008.iml" filepath="$PROJECT_DIR$/008/008.iml" />
+      <module fileurl="file://$PROJECT_DIR$/009/009.iml" filepath="$PROJECT_DIR$/009/009.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Exercise.iml" filepath="$PROJECT_DIR$/.idea/Exercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson001/Lesson001.iml" filepath="$PROJECT_DIR$/Lesson001/Lesson001.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson002/Lesson002.iml" filepath="$PROJECT_DIR$/Lesson002/Lesson002.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson003/Lesson003.iml" filepath="$PROJECT_DIR$/Lesson003/Lesson003.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson004/Lesson004.iml" filepath="$PROJECT_DIR$/Lesson004/Lesson004.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson005/Lesson005.iml" filepath="$PROJECT_DIR$/Lesson005/Lesson005.iml" />
     </modules>
   </component>
 </project>
